@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: white;
+    padding: 20px;
+}
+
+.main-paragraph{
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.sub-paragraph{
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.buttons-group{
+    margin: 10px;
+}
+
+button {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.confirm-button {
+    background-color: green;
+    color: white;
+  }
+  
+.cancel-button {
+    background-color: white;
+    color: black;
+  }
+  
+.thin-div {
+    font-size: 24px;
+    font-weight: 300;
+    margin: 10px 0;
+  }
+  
+.child-div {
+    font-size: 18px;
+    font-weight: 900;
+  }
